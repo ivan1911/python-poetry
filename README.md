@@ -9,8 +9,9 @@ The official [Python Docker image](https://hub.docker.com/_/python) [(Github)](h
 
 ## Supported tags
 
-- `3.9`, `latest`
-- `3.8`
+- `3.10`, `latest`
+- `3.9`
+- `3.10`
 
 ## Build tag and push to docker hub
 
