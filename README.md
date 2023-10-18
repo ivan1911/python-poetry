@@ -11,7 +11,7 @@ The official [Python Docker image](https://hub.docker.com/_/python) [(Github)](h
 
 - `3.10`, `latest`
 - `3.9`
-- `3.10`
+- `3.8`
 
 ## Build tag and push to docker hub
 
